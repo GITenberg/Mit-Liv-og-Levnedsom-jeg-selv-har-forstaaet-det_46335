@@ -1,0 +1,37 @@
+_repo: Mit-Liv-og-Levnedsom-jeg-selv-har-forstaaet-det_46335
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46335-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fibiger, J. (Johannes)
+    alias: Fibiger, Johannes
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '43727'
+    url: http://www.gutenberg.org/2009/agents/43727
+  editor:
+    agent_name: Gjellerup, Karl
+    alias: Gjellerup, Karl Adolph
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '5757'
+    url: http://www.gutenberg.org/2009/agents/5757
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup
+    - http://de.wikipedia.org/wiki/Karl_Gjellerup
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46335'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Fibiger, J. (Johannes), 1821-1897'
+title: Mit liv og levned som jeg selv har forstaaet det
+url: http://www.gutenberg.org/ebooks/46335
