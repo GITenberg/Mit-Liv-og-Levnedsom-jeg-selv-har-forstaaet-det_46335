@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup
     - http://de.wikipedia.org/wiki/Karl_Gjellerup
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46335#Mit-Liv-og-Levnedsom-jeg-selv-har-forstaaet-det
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
